@@ -11,9 +11,6 @@ const meta: Meta<typeof Button> = {
     backgroundColor: { control: "color" },
   },
   tags: ["autodocs"],
-  parameters: {
-    direction: "ltr",
-  },
 };
 
 export default meta;
