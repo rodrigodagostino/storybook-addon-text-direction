@@ -1,6 +1,6 @@
 {
   "name": "storybook-addon-text-direction",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Toggle between LTR and RTL text direction",
   "keywords": [
     "addon",
