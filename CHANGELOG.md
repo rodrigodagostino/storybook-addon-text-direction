@@ -1,3 +1,15 @@
+# v0.0.2 (Sat May 11 2024)
+
+#### ⚠️ Pushed to `main`
+
+- chore: update addon icon URL (rodrigo.dagostino@proton.me)
+
+#### Authors: 1
+
+- Rodrigo D’Agostino (rodrigo.dagostino@proton.me)
+
+---
+
 # v0.0.1 (Sat May 11 2024)
 
 #### ⚠️ Pushed to `main`
