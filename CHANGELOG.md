@@ -1,3 +1,16 @@
+# v0.0.3 (Wed May 15 2024)
+
+#### ⚠️ Pushed to `main`
+
+- chore: remove GitHub workflows ([@rodrigodagostino](https://github.com/rodrigodagostino))
+- chore: update addon icon URL ([@rodrigodagostino](https://github.com/rodrigodagostino))
+
+#### Authors: 1
+
+- Rodrigo D’Agostino ([@rodrigodagostino](https://github.com/rodrigodagostino))
+
+---
+
 # v0.0.2 (Sat May 11 2024)
 
 #### ⚠️ Pushed to `main`
