@@ -16,7 +16,7 @@ export const withGlobals = (
 
   useEffect(() => {
     const selector = isInDocs
-      ? `#anchor--${context.id} .sb-story`
+      ? `#anchor--${context.id} .sb-story, #story--${context.id}.sb-story`
       : "#storybook-root";
     const rootElements = document.querySelectorAll<HTMLElement>(selector);
     rootElements.forEach((element) => (element.dir = textDirection));
