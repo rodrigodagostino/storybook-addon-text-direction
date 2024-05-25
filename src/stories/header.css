@@ -22,11 +22,11 @@ h1 {
 }
 
 button + button {
-  margin-left: 10px;
+  margin-inline-start: 10px;
 }
 
 .welcome {
   color: #333;
   font-size: 14px;
-  margin-right: 10px;
+  margin-inline-end: 10px;
 }
