@@ -1,44 +1,40 @@
-# v0.0.3 (Wed May 15 2024)
+# v0.1.1 (2024-05-24)
 
 #### ⚠️ Pushed to `main`
 
-- chore: remove GitHub workflows ([@rodrigodagostino](https://github.com/rodrigodagostino))
-- chore: update addon icon URL ([@rodrigodagostino](https://github.com/rodrigodagostino))
+- feat: add support for custom documentation
+- docs: add custom documentation example
+- docs: sort stories manually
 
-#### Authors: 1
+# v0.1.0 (2024-05-15)
 
-- Rodrigo D’Agostino ([@rodrigodagostino](https://github.com/rodrigodagostino))
+#### ⚠️ Pushed to `main`
+
+- chore: remove GitHub workflows
+- chore: update addon icon URL
 
 ---
 
-# v0.0.2 (Sat May 11 2024)
+# v0.0.2 (2024-05-11)
 
 #### ⚠️ Pushed to `main`
 
-- chore: update addon icon URL (rodrigo.dagostino@proton.me)
-
-#### Authors: 1
-
-- Rodrigo D’Agostino (rodrigo.dagostino@proton.me)
+- chore: update addon icon URL
 
 ---
 
-# v0.0.1 (Sat May 11 2024)
+# v0.0.1 (2024-05-11)
 
 #### ⚠️ Pushed to `main`
 
-- fix: correct errors in package.json (rodrigo.dagostino@proton.me)
-- chore: update package-lock.json and remove pnpm-lock.yaml (rodrigo.dagostino@proton.me)
-- docs: update README (rodrigo.dagostino@proton.me)
-- chore: update license attribution (rodrigo.dagostino@proton.me)
-- chore: add addon keyword (rodrigo.dagostino@proton.me)
-- chore: remove parameters from Button stories (rodrigo.dagostino@proton.me)
-- feat: add toggle button and basic functionality (rodrigo.dagostino@proton.me)
-- chore: prevent Storybook from opening automatically in browser (rodrigo.dagostino@proton.me)
-- chore: remove unnecessary content (rodrigo.dagostino@proton.me)
-- Project setup (rodrigo.dagostino@proton.me)
-- Initial commit (rodrigo.dagostino@proton.me)
-
-#### Authors: 1
-
-- Rodrigo D’Agostino ([@rodrigodagostino](https://github.com/rodrigodagostino))
+- fix: correct errors in package.json
+- chore: update package-lock.json and remove pnpm-lock.yaml
+- docs: update README
+- chore: update license attribution
+- chore: add addon keyword
+- chore: remove parameters from Button stories
+- feat: add toggle button and basic functionality
+- chore: prevent Storybook from opening automatically in browser
+- chore: remove unnecessary content
+- Project setup
+- Initial commit
